@@ -1,0 +1,1 @@
+Este projeto é uma aplicação simples desenvolvida com Python e Streamlit que consome a API da OpenAI. Através dela, é possível interagir com diferentes modelos de inteligência artificial da OpenAI (como o ChatGPT), diretamente pela interface web criada com Streamlit.
